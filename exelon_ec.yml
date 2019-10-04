@@ -1,0 +1,9 @@
+ec-config:                                                                                                                                                                               
+  conf:                                                                                                                                                                      
+    mod: gateway                                                                                                                                                                         
+    gpt: "17990"                                                                                                                                                                         
+    zon: {{EC_SID}}                                                                                                                                                                      
+    sst: {{EC_SST}}                                                                                                                                                                      
+    dbg: true                                                                                                                                                                            
+    tkn: {{EC_TKN}}                                                                                                                                                                      
+    hst: {{EC_HST}}
